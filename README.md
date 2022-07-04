@@ -2,6 +2,7 @@
 
 ## **SERIES C FOR BEGINNERS** 
 
-Training schedule  | 04/07 | 05/07 | 06/07 | 07/07 | 08/07 |
+Training schedule  | monday | tuesday | wednesday | thursday | friday |
 --- | --- | --- | --- |--- |--- |
-Content | 0407.md | 0507.md | 0607.md | 0707.md | 0807.md |
+link | [04/07](https://github.com/vuduynhiennn/c-for-beginners-/blob/main/lecture%20content/0407.md) |[05/07](https://github.com/vuduynhiennn/c-for-beginners-/blob/main/lecture%20content/0507.md) | [06/07](https://github.com/vuduynhiennn/c-for-beginners-/blob/main/lecture%20content/0407.md) | [07/07](https://github.com/vuduynhiennn/c-for-beginners-/blob/main/lecture%20content/0407.md)| [08/07](https://github.com/vuduynhiennn/c-for-beginners-/blob/main/lecture%20content/0407.md) |
+
